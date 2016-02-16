@@ -9,7 +9,7 @@ namespace firstWebApi.Controllers
 {
     public class ValuesController : ApiController
     {
-        // GET api/valuesztztztztggggggggggggg
+        // GET api/valuesztztztztgggggggggggggggggg
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
